@@ -6,9 +6,8 @@ Project analyses the crime patterns in Chicago using various visualizations in p
 Chicago crime dataset from Kaggle.
 
 # Languages and Libraries
-Python3
-sklearn
-seaborn
-pandas
-numpy
-matplotlib
+Markup : * Python3
+Markup : * seaborn
+Markup : * pandas
+Markup : * numpy
+Markup : *matplotlib
